@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @geraldine6hawthorn710
+- 👀 I’m interested in Web. I’m currently learning MERN stack.
+- 🌱 Web developer focusing on the MERN stack. Building responsive, scalable websites.
